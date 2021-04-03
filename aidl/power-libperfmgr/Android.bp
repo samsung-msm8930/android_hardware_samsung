@@ -35,7 +35,6 @@ cc_binary {
         "libbinder_ndk",
         "libperfmgr",
         "pixel-power-ext-ndk_platform",
-        "vendor.lineage.power-ndk_platform",
     ],
     srcs: [
         "service.cpp",

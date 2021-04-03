@@ -30,8 +30,7 @@ LOCAL_SHARED_LIBRARIES := \
     libbinder \
     libcutils \
     libhidlbase \
-    libutils \
-    vendor.lineage.fastcharge@1.0
+    libutils
 
 LOCAL_MODULE := vendor.lineage.fastcharge@1.0-service.samsung
 LOCAL_INIT_RC := vendor.lineage.fastcharge@1.0-service.samsung.rc
